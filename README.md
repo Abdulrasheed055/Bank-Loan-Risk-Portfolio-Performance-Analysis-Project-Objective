@@ -93,9 +93,8 @@ Top loan application categories:
 
 ## 🛠 Tools & Technologies
 
-* **SQL** – Data extraction and querying
 * **Excel** – Data cleaning and preprocessing
-* **Power BI** – Interactive dashboard and visualization
+  
 
 ---
 
