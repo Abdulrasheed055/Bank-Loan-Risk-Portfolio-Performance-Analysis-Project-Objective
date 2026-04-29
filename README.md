@@ -112,8 +112,8 @@ Top loan application categories:
 
 ## 📷 Dashboard Preview
 
-(Add your Power BI screenshots here)
-
+![Dashboard](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective/blob/main/loandashboard.png)
+![Dashboard](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective/blob/main/loansummary.png)
 ---
 
 ##  Author
