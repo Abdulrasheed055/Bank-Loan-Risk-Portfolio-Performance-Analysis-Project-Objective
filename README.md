@@ -91,14 +91,14 @@ Top loan application categories:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Excel** – Data cleaning and preprocessing
   
 
 ---
 
-## 📌 Strategic Recommendations
+##  Strategic Recommendations
 
 * Apply stricter credit assessment for **long-term (60-month) loans**
 * Monitor borrowers with **high DTI ratios** more closely
@@ -110,7 +110,7 @@ Top loan application categories:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective/blob/main/loandashboard.png)
 ![Dashboard](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective/blob/main/loansummary.png)
@@ -121,7 +121,7 @@ Top loan application categories:
 **Aminu Abdulrasheed**
 Data Analyst | Business Intelligence | Reporting & Insights
 
-📩 Open to:
+ Open to:
 
 * Data Analyst roles
 * Financial Analyst roles
@@ -140,7 +140,7 @@ This project demonstrates:
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 I’m open to opportunities and collaborations in **data analytics, business intelligence, and financial analytics**.
 Let’s discuss how data can drive smarter decisions.
